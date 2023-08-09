@@ -4,15 +4,16 @@ Welcome to the JavaScript Programming Hands-On Lab! 🚀 In this lab, we're goin
 
 ### _Table of Contents_
 
-1. [Introduction to JavaScript](./docs/introduction-to-javascript)
-2. [Variables and Data Types](./docs/variables-and-data-types)
-3. [Conditional Statements (If-Else)](./docs/conditional-statements-if-else)
-4. [Loops (For and While)](./docs/loops-for-and-while)
-5. [Functions](./docs/functions)
-6. [Arrays](./docs/arrays)
-7. [Objects](./docs/./docs/objects)
-8. [Event Handling (Click)](./docs/event-handling-click)
-9. [DOM Manipulation](./docs/dom-manipulation)
-10. [Callbacks and Asynchronous Programming](./docs/callbacks-and-asynchronous-programming)
+1. [Setting Up the Tools](./docs/setting-up-tools)
+2. [Introduction to JavaScript](./docs/introduction-to-javascript)
+3. [Variables and Data Types](./docs/variables-and-data-types)
+4. [Conditional Statements (If-Else)](./docs/conditional-statements-if-else)
+5. [Loops (For and While)](./docs/loops-for-and-while)
+6. [Functions](./docs/functions)
+7. [Arrays](./docs/arrays)
+8. [Objects](./docs/./docs/objects)
+9. [Event Handling (Click)](./docs/event-handling-click)
+10. [DOM Manipulation](./docs/dom-manipulation)
+11. [Callbacks and Asynchronous Programming](./docs/callbacks-and-asynchronous-programming)
 
 ---
