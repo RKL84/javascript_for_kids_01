@@ -4,8 +4,8 @@ Welcome to the JavaScript Programming Hands-On Lab! 🚀 In this lab, we're goin
 
 ### _Table of Contents_
 
-1. [Setting Up the Tools](./docs/setting-up-tools)
-2. [Introduction to JavaScript](./docs/introduction-to-javascript)
+1. [Setting Up the Tools](./docs/setting-up-tools) :+1
+2. [Introduction to JavaScript](./docs/introduction-to-javascript) :+1
 3. [Variables and Data Types](./docs/variables-and-data-types)
 4. [Conditional Statements (If-Else)](./docs/conditional-statements-if-else)
 5. [Loops (For and While)](./docs/loops-for-and-while)
