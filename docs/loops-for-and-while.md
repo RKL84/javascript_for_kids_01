@@ -59,5 +59,7 @@ A: A loop could be used to repeat a game level until the player succeeds or to p
 
 **Challenges:**
 
-1. Write a program that calculates the factorial of a number using a for loop.
-2. Create a guessing game where the user has to guess a secret number using a while loop.
+1. Print number from 1 to 100 using for loop. 
+2. Print number from 1 to 100 using for loop in reverse order. 
+3. Print number from 1 to 100 using while loop. 
+4. Print number from 1 to 100 using while loop in reverse order. 
